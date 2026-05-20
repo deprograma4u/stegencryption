@@ -315,6 +315,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 
 For issues and questions:
-- Check the [Issues](https://github.com/your-repo/encsteg/issues) page
-- Review the documentation
+- Check the [Issues](https://github.com/deprograma4u/stegencryption/issues) page
+<!-- - Review the documentation -->
 - Run the test suite to verify functionality
